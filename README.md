@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwame-adepa
 - 👀 I’m interested in CyberSecurity , Networking and Python
-- 🌱 I’m currently learning  Python and CyberSecurity
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on Python projects and CTFs
 - 📫 You can reach me on Twitter @AKAElijah2
 
